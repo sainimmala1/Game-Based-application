@@ -26,18 +26,21 @@ Teachable Machine Integration:
 3.Outcome determination based on recognized gestures
 
 Getting Started
-
 Prerequisites
+
 A web browser (Google Chrome, Mozilla Firefox, etc.)
 Internet connection for loading external scripts (for Teachable Machine)
 
 Files
+
 index.html: Main webpage with links to the two game modes.
 index2.html: Webpage for the JavaScript mode of the game, connected to app.js and style2.css.
 A separate webpage for the Teachable Machine mode of the game.
 
 Running the Game
+
 Open index.html in your web browser.
 Choose the desired game mode by clicking one of the following links:
+
 Mode-1: JavaScript Mode.
 Mode-2: Teachable Machine Integration.
