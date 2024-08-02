@@ -8,6 +8,7 @@ This project is a static webpage featuring two modes for playing the classic gam
 
 JavaScript Mode: Users can select their choice (Rock, Paper, or Scissors), and the computer generates a random choice to determine the 
                  winner.
+                 
 Teachable Machine Integration: Utilizes Google's Teachable Machine for real-time gesture recognition, enabling users to play by showing 
                                hand gestures for Rock, Paper, and Scissors. The application recognizes the gestures and determines the 
                                outcome.
@@ -38,5 +39,5 @@ A separate webpage for the Teachable Machine mode of the game.
 Running the Game
 Open index.html in your web browser.
 Choose the desired game mode by clicking one of the following links:
-Mode-1: JavaScript Mode
-Mode-2: Teachable Machine Integration
+Mode-1: JavaScript Mode.
+Mode-2: Teachable Machine Integration.
